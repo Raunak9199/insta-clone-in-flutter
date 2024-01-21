@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "600509092671",
+    "project_id": "my-new-social-chat-app",
+    "storage_bucket": "my-new-social-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600509092671:android:d26455cc35dca84ddff98a",
+        "android_client_info": {
+          "package_name": "com.example.socio_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600509092671-rh67q0akn0kffrvj5bcjo2urg5qrtbfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socio_chat",
+            "certificate_hash": "6cbe90c5666e67ccc316d5e21e18126e2f012a03"
+          }
+        },
+        {
+          "client_id": "600509092671-gvtflreb5ji1442k1vbuc16318tjqcal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRYYgykoHL7lkULnkx3J4sxrQuhAfyYtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600509092671-gvtflreb5ji1442k1vbuc16318tjqcal.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600509092671-3dfbg4m0vpnuk5ratc79c63bnqnav5n6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socioChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
